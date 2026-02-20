@@ -1,6 +1,6 @@
-*{
-    background-color: aqua;
-}
+/* *{
+    background-color: rgb(61, 91, 91);
+} */
 h1{
     color: blueviolet;
 }
@@ -8,4 +8,11 @@ h1{
 img{
     width: 150px;
     height: 150px;
+}
+
+.facebook {
+    color: rgb(31, 31, 140);
+}
+.Media{
+    background-color: rgb(47, 133, 116);
 }

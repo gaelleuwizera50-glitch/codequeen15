@@ -1,5 +1,7 @@
 *{
-    background-color: rgb(170, 197, 239);
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(170, 197, 239); */
 }
 /* h1{
     color: blueviolet;
@@ -60,4 +62,26 @@ img{
        p{
         color: #b86b30;
         font-size: larger;
+       }
+
+       #sample{
+        background-color: rgb(153, 168, 154);
+        border: 5px red solid;
+       }
+       .second{
+        border-style: dotted;
+        margin: 30px 10px;
+        padding: 30px;
+       }
+
+       /* My Flex Box properties */
+       .Container{
+        background-color: aqua;
+       }
+       .childContainer{
+        background-color: #c4b3a6;
+        display: flex;
+        /* gap: 40px; */
+        justify-content: space-between;
+        /* justify-content: space-around; */
        }
